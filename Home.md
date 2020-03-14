@@ -1,1 +1,3 @@
-Welcome to the slovensko-help wiki!
+# Slovensko-Help Knowledge Base
+
+Zbierka rôznych zdrojov, ktoré pomáhajú zefektívniť procesy za účelom lepšieho zvládania pandémie.
