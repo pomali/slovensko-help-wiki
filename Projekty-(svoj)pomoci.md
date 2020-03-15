@@ -3,7 +3,7 @@
 ## Informácie
 
 * [covid.chat](https://covid.chat) - chatbot s aktuálnymi informáciami, samodiagnostikou a kontaktami, ktorý sa da vložiť na stránku
-* [Polícia SR](https://www.facebook.com/policiaslovakia/)
+* [Polícia SR](https://www.facebook.com/policiaslovakia/) - informácie o falošných správach
 
 ## Finančná podpora
 
