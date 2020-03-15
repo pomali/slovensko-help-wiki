@@ -5,7 +5,7 @@ Minimalizovať čas, ktorý pacient trávi v lekárni a počet ľudí, s ktorým
 # Postup
 
 1. Stiahnite si pripravený plagát [TODO pripraviť plagát na stiahnutie]
-2. Vytlačte plagát na dva A4 papiere a umiestnite ho na viditeľné miesto pri vstupe do lekárne
+2. Vytlačte si dva plagáty na tlačiarni: [Plagát pre lekárne](files/plagaty/lekarne/plagat-v2020031501.pdf) (verzia 2020031501)
 
 ***
 
