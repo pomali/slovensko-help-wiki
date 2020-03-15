@@ -1,6 +1,6 @@
 # Cieľ tohto opatrenia
 
-Minimalizovať čas, ktorý pacient trávi v lekárni, počet ľudí, s ktorými príde do kontaktu a zodpovedné správanie pacienta počas jeho prítomnosti v lekárni.
+Minimalizovať čas, ktorý pacient trávi v lekárni, počet ľudí, s ktorými príde do kontaktu a viesť pacientov k zodpovednému správaniu počas prítomnosti v lekárni.
 
 # Postup pre plagát na dverách lekárne
 
