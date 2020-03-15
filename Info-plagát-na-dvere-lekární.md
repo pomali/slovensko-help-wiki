@@ -5,7 +5,9 @@ Minimalizovať čas, ktorý pacient trávi v lekárni, počet ľudí, s ktorými
 # Postup pre plagát na dverách lekárne
 
 1. Stiahnite si [plagát pre lekárne](files/lekarne/lekarne-plagat-v2020031501.pdf) (PDF, verzia 2020031501)
-2. Vytlačte si dve stránky na vašej tlačiarni a umiestnite ich na dvere lekárne
+2. Vytlačte si súbor na vašej tlačiarni a umiestnite ich na dvere lekárne
+
+Odporúčame na dvere lekárne zverejniť aj nedostupnosť sortimentu, na ktorý sa ľudia najčastejšie pýtajú. Napríklad rúška, dezinfekcie, ai.
 
 # Postup pre Facebook
 
@@ -16,3 +18,7 @@ Náhľad obrázkov, ktoré sa nachádzajú v balíčku:
 
 ![](https://github.com/misotrnka/slovensko-help/wiki/images/lekarne/lekarne-social-preview.png)
 ![](https://github.com/misotrnka/slovensko-help/wiki/images/lekarne/plagat-2020031501.png)
+
+
+***
+V prípade nejasností alebo otázok napíšte email na filip.likavcan@gmail.com
