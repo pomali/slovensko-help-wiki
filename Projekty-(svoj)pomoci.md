@@ -14,6 +14,6 @@
 
 * [Oto Kona](https://www.facebook.com/1035623598/posts/10218950217599843/?d=n) - projekt rôznorodej podpory umelcov, živnostníkov a podnikateľov, ktorým vypadli príjmy
 
-## DYI
+## Urob si sám
 
 * [usirusko.sk](https://usirusko.sk/) - návod na ušitie rúška
