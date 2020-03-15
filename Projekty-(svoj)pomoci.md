@@ -1,3 +1,5 @@
+> Tento zoznam priebežne aktualizujeme. Prosím, napíšte na filip.likavcan@gmail.com, ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
+
 ## Informácie
 
 * [covid.chat](https://covid.chat) - chatbot s aktuálnymi informáciami, samodiagnostikou a kontaktami, ktorý sa da vložiť na stránku
