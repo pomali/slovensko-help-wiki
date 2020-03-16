@@ -1,6 +1,6 @@
 Naše projekty
 
-* [Plagáty](https://github.com/misotrnka/slovensko-help/wiki/Infobal%C3%ADky)
+* [Plagáty](https://github.com/misotrnka/slovensko-help/wiki/Plag%C3%A1ty)
 
 ***
 Iné projekty a informácie
