@@ -1,0 +1,1 @@
+Pomáhame krízovému štábu urobiť oficiálnu infolinku dostupnejšiu a užitočnejšiu pre všetkých ľudí.
