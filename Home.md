@@ -2,8 +2,9 @@
 
 Zbierka rôznych zdrojov, ktoré pomáhajú zefektívniť procesy za účelom lepšieho zvládania pandémie.
 
-* [Projekty (svoj)pomoci](https://github.com/misotrnka/slovensko-help/wiki/Projekty-(svoj)pomoci)
+* [Home](https://github.com/misotrnka/slovensko-help/wiki)
+* [Informácie a projekty](https://github.com/misotrnka/slovensko-help/wiki/Inform%C3%A1cie-a-projekty)
 
 ***
 
-* [Work in progress](https://github.com/misotrnka/slovensko-help/wiki/Work-in-progress)
+* [Infobalíky](https://github.com/misotrnka/slovensko-help/wiki/Infobal%C3%ADky)
