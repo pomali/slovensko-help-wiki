@@ -2,8 +2,19 @@
 
 Zbierka rôznych zdrojov, ktoré pomáhajú zefektívniť procesy za účelom lepšieho zvládania pandémie.
 
-* [Informácie a projekty](https://github.com/misotrnka/slovensko-help/wiki/Inform%C3%A1cie-a-projekty)
+Naše projekty
+
+* [Chatbot - Covid.chat](Chatbot---Covid.chat)
+  * Webový chat, ktorý umožňuje ľuďom, aby si pomohli sami, prostredníctvom zrozumiteľnej webovej aplikácie - chatbota, ktorý im jednoducho poskytne základné informácie o aktuálnej situácii, prevencii a diagnostike
+* [Lepšia Infolinka](Lepšia-Infolinka)
+  * Pomáhame krízovému štábu urobiť oficiálnu infolinku dostupnejšiu a užitočnejšiu pre všetkých ľudí.
+* [Plagáty](Plag%C3%A1ty)
+  * Vytvárame plagáty pre lekárne, domácnosti, pošty a iné miesta, na ktorých je dôležité ľudí povzbudzovať k ohľaduplnosti a zodpovednému správaniu. Plagáty stačí stiahnuť, vytlačiť a vylepiť na viditeľné miesto.
 
 ***
+Iné projekty a informácie
 
-* [Infobalíky](https://github.com/misotrnka/slovensko-help/wiki/Infobal%C3%ADky)
+* [Informácie](Inform%C3%A1cie)
+* [Vzdelávanie](Vzdel%C3%A1vanie)
+* [Projekty podpory](Projekty-podpory)
+* [Urob si sám](Urob-si-s%C3%A1m)
