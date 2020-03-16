@@ -1,4 +1,4 @@
-> Tento zoznam priebežne aktualizujeme. Prosím, napíšte na filip.likavcan@gmail.com, ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
+> Tento zoznam priebežne aktualizujeme. Prosím, napíšte na katarina.grujbarova@gmail.com, ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
 
 ## Informácie
 
