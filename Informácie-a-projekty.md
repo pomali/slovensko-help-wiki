@@ -2,8 +2,8 @@
 
 ## Informácie
 
-* [korona.gov.sk](https://korona.gov.sk/) - infoportál Úradu vlády
 * [virus-corona.sk](https://virus-corona.sk/) - infoportál Národného centra zdravotníckych informácií
+* [korona.gov.sk](https://korona.gov.sk/) - infoportál Úradu vlády
 * [covid.chat](https://covid.chat) - chatbot s aktuálnymi informáciami, samodiagnostikou a kontaktami, ktorý sa da vložiť na stránku
 * [Polícia SR](https://www.facebook.com/policiaslovakia/) - informácie o falošných správach
 * [Čo zvážiť pred návštevou lekárne](https://www.slek.sk/storage/Korona_press.pdf?fbclid=IwAR3mGZ7-vwlPlz6ycrEErqnr9uS6FFg60LQ31A_3BflHMhlKtVDkk8LJC4Q) - odporúčanie Slovenskej lekárnickej komory pre pacientov 
