@@ -1,6 +1,7 @@
 Naše projekty
 
 * [Chatbot - Covid.chat](https://github.com/misotrnka/slovensko-help/wiki/Chatbot---Covid.chat)
+* [Lepšia Infolinka](Lepšia-Infolinka)
 * [Plagáty](https://github.com/misotrnka/slovensko-help/wiki/Plag%C3%A1ty)
 
 ***
