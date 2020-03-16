@@ -23,4 +23,4 @@ Náhľad obrázkov, ktoré sa nachádzajú v balíčku:
 ***
 Dátum poslednej aktualizácie plagátu: 15. marca 2020
 
-V prípade nejasností alebo otázok napíšte email na filip.likavcan@gmail.com
+> V prípade nejasností alebo otázok napíšte email na filip.likavcan@gmail.com
