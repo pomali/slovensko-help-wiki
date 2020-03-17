@@ -4,7 +4,7 @@
 * [Infoportál Národného centra zdravotníckych informácií (NCZI)](https://virus-corona.sk/)
 * [korona.gov.sk](https://korona.gov.sk/) - infoportál Úradu vlády
 * [Polícia SR](https://www.facebook.com/policiaslovakia/) - informácie o falošných správach
-* [EIC Accelerator Budget EUR164M](https://ec.europa.eu/info/news/startups-and-smes-innovative-solutions-welcome-2020-mar-13_en) - Applications welcome from startups and SMEs with innovative solutions to tackle Coronavirus outbreak
+* [EIC Accelerator Budget EUR164M](https://ec.europa.eu/info/news/startups-and-smes-innovative-solutions-welcome-2020-mar-13_en) - Granty pre inovatívne riešenia, ktoré pomáhajú zvládať pandémiu
 
 ## Iné zdroje
 
@@ -17,7 +17,7 @@
 * [Mapa virusu v SR](https://www.mapavirusu.sk) - Geograficky mapuje vyskyt v ramci SR
 * [ArcGeo](https://www.arcgis.com/apps/opsdashboard/index.html#/5fe83e34abc14349b7d2fcd5c48c6c85) - Zobrazuje data o nakaze Covid-19  v realnom case v ramci slovenskeho uzemia.
 * [COVID-19 na Slovensku: porovnanie s inými krajinami](https://qsmd.github.io/covid19slovakia/) - COVID-19 na Slovensku: porovnanie s inými krajinami
-* [Fight Corona with Art](https://tasteminty.com/page/fight-corona-with-art/) - Granty pre inovatívne riešenia, ktoré pomáhajú zvládať pandémiu
+* [Fight Corona with Art](https://tasteminty.com/page/fight-corona-with-art/) - Poskytuje bezplatne obrazky smerujuce ku zmenam spravania obyvatelstva a pre novinarov a blogerov informujucich obyvatelstvo o pozadovanom spravania, vyvoji choroby a karanteny.
 * [TapiX by Dateio](https://dateio.eu/tapix) - Jsme Fintech startup, který zpracovává a obohacuje karetní transakce slovenských, českých a rumunských bank. Na základě naší analýzy transakcí jsme schopni měřit takřka realtime efekty jednotlivých opatření na snížení pohybu obyvatelstva. Všechno máme již připravené pro ČR, kde jsme aktivně zapojeni v COVID19.CZ, takže úprava pro SK je pro nás otázka pár hodin.
 
 > Tento zoznam priebežne aktualizujeme. Prosím, napíšte na katarina.grujbarova@gmail.com, ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
