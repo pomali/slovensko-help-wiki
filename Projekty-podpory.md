@@ -9,15 +9,12 @@
 * [Best practices by BBG](https://docs.google.com/document/d/120FeDaSEEvCTDFlhXyR2Sj1PeaHbuoxBCmeBvD-nyD4/edit?fbclid=IwAR3VmCjqxL72xa2RX9lKRgKQnKqFj3NiUy-IeFqmVAWS4NVkBDWARYygBWE#) - Zoznam zdrojov, ktoré môžu pomôcť organizáciám, majiteľom firiem a podnikateľom.
 * [EIC Accelerator Budget EUR164M](https://ec.europa.eu/info/news/startups-and-smes-innovative-solutions-welcome-2020-mar-13_en) - Applications welcome from startups and SMEs with innovative solutions to tackle Coronavirus outbreak
 * [Market Locator](https://dennikn.sk/1800166/expert-na-lokalizaciu-mobilov-mohli-by-sme-urcit-ohniska-nakazy-a-upozornovat-tych-co-porusia-karantenu/?cst=6f51be7d81c769c4c22a844959389f007debd2ad) - Mohli by sme určiť ohniská nákazy a upozorňovať tých, čo porušia karanténu
-* [doučma.sk](https://www.doucma.sk) - online doučovanie
 * [Aby kultúra žila](https://tootoot.fm/en/article/5e6ad2b349783a0d6c9bd429) Zbierka pre umelcov - prispejte kúpou pamätnej vstupenky. Spoločne výťažkom pomôžeme umelcom preklenúť náročné obdobie, kedy nemôžu vystupovať v mesiacoch marec a apríl 2020. Iniciatíva zároveň pracuje na organizácii prvého virtuálneho festivalu.
 * [Maltézska pomoc Slovensko](http://www.orderofmalta.sk/vyzva-k-solidarite-starostlivost-o-ohrozenych-seniorov/) - Rozvoz stravy pre ohrozených seniorov pri dodržaní hygienických opatrení
 * [Korona info](https://koronainfo.sk/) - korona info
 * [Ponuka práce vo firmách, ktoré pomáhajú](https://www.startupjobs.cz/nabidky/koronavirus) - Pomáha firmám zvládnuť nápor práce
 * [Mapa virusu v SR](https://www.mapavirusu.sk) - Geograficky mapuje vyskyt v ramci SR
 * [End Corona Virus](https://endcoronavirus.org) - Zhromažďuje dobrovoľníkov, informácie, a best practices ako bojovat
-* [Učím sa Doma](https://ucimsadoma.sk/) - Materiály na domácu výučbu, zatiaľ hlavne STEM
-* [online vzdelávanie - ako komunikovať tak, aby naše vzťahy prekvitali](https://www.otvorenahra.sk/) - V dnešných dňoch učí ľudí ako komunikovať, aby sa v karanténe navzájom nezožrali :)
 * [ArcGeo](https://www.arcgis.com/apps/opsdashboard/index.html#/5fe83e34abc14349b7d2fcd5c48c6c85) - Zobrazuje data o nakaze Covid-19  v realnom case v ramci slovenskeho uzemia.
 * [COVID-19 na Slovensku: porovnanie s inými krajinami](https://qsmd.github.io/covid19slovakia/) - COVID-19 na Slovensku: porovnanie s inými krajinami
 * [MAIA MD](https://maiamd.sk/) - Snazime sa predist osobnemu kontaktu medzi lekarom a pacientom, telemedicina je znamy pojem a v case covid19 je MAIA prilezitost zdravotnikov a lekarov pomahat aj ked su sami v karantene
