@@ -11,7 +11,6 @@
 * [Market Locator](https://dennikn.sk/1800166/expert-na-lokalizaciu-mobilov-mohli-by-sme-urcit-ohniska-nakazy-a-upozornovat-tych-co-porusia-karantenu/?cst=6f51be7d81c769c4c22a844959389f007debd2ad) - Mohli by sme určiť ohniská nákazy a upozorňovať tých, čo porušia karanténu
 * [Aby kultúra žila](https://tootoot.fm/en/article/5e6ad2b349783a0d6c9bd429) Zbierka pre umelcov - prispejte kúpou pamätnej vstupenky. Spoločne výťažkom pomôžeme umelcom preklenúť náročné obdobie, kedy nemôžu vystupovať v mesiacoch marec a apríl 2020. Iniciatíva zároveň pracuje na organizácii prvého virtuálneho festivalu.
 * [Maltézska pomoc Slovensko](http://www.orderofmalta.sk/vyzva-k-solidarite-starostlivost-o-ohrozenych-seniorov/) - Rozvoz stravy pre ohrozených seniorov pri dodržaní hygienických opatrení
-* [Korona info](https://koronainfo.sk/) - korona info
 * [Ponuka práce vo firmách, ktoré pomáhajú](https://www.startupjobs.cz/nabidky/koronavirus) - Pomáha firmám zvládnuť nápor práce
 * [Mapa virusu v SR](https://www.mapavirusu.sk) - Geograficky mapuje vyskyt v ramci SR
 * [End Corona Virus](https://endcoronavirus.org) - Zhromažďuje dobrovoľníkov, informácie, a best practices ako bojovat
