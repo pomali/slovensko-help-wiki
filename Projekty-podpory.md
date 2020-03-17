@@ -19,5 +19,6 @@
 * [MAIA MD](https://maiamd.sk/) - Snazime sa predist osobnemu kontaktu medzi lekarom a pacientom, telemedicina je znamy pojem a v case covid19 je MAIA prilezitost zdravotnikov a lekarov pomahat aj ked su sami v karantene
 * [Fight Corona with Art](https://tasteminty.com/page/fight-corona-with-art/) - Poskytuje bezplatne obrazky smerujuce ku zmenam spravania obyvatelstva a pre novinarov a blogerov informujucich obyvatelstvo o pozadovanom spravania, vyvoji choroby a karanteny.
 * [TapiX by Dateio](https://dateio.eu/tapix) - Jsme Fintech startup, který zpracovává a obohacuje karetní transakce slovenských, českých a rumunských bank. Na základě naší analýzy transakcí jsme schopni měřit takřka realtime efekty jednotlivých opatření na snížení pohybu obyvatelstva. Všechno máme již připravené pro ČR, kde jsme aktivně zapojeni v COVID19.CZ, takže úprava pro SK je pro nás otázka pár hodin.
+* [Spoločnosť ESET vytvára fond na podporu účinnej diagnostiky ochorenia COVID-19](https://www.nadaciaeset.sk/aktuality/fond-koronavirus-2020-mar.html) - Cieľom je v prvej fáze zabezpečiť potrebné vybavenie na skvalitnenie diagnostiky a zavedenie plošného testovania na Slovensku.
 
 > Tento zoznam priebežne aktualizujeme. Prosím, napíšte na katarina.grujbarova@gmail.com, ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
