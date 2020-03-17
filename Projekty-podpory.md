@@ -8,7 +8,7 @@
 * [frantiskani.sk](http://www.frantiskani.sk/spravy/465/frantiskanska-nakupovacia-sluzba) - Ponuka Nakupovacej služby pre všetkých čo sa ocitli v karanténe, i pre starších a zdravotne postihnutých ľudí. 
 * [Maltézska pomoc Slovensko](http://www.orderofmalta.sk/vyzva-k-solidarite-starostlivost-o-ohrozenych-seniorov/) - Rozvoz stravy pre ohrozených seniorov pri dodržaní hygienických opatrení
 
-## Pomoc umelcov, živnostníkom a podnikateľom
+## Pomoc umelcom, živnostníkom a podnikateľom
 * [smesvami.sk](https://www.smesvami.sk/) - crowdfunding projekt na finančnú podporu umelcov, živnostníkov a podnikateľov, ktorým vypadli príjmy
 * [Oto Kona](https://www.facebook.com/1035623598/posts/10218950217599843/?d=n) - projekt rôznorodej podpory umelcov, živnostníkov a podnikateľov, ktorým vypadli príjmy
 * [Aby kultúra žila](https://tootoot.fm/en/article/5e6ad2b349783a0d6c9bd429) Zbierka pre umelcov - prispejte kúpou pamätnej vstupenky. Spoločne výťažkom pomôžeme umelcom preklenúť náročné obdobie, kedy nemôžu vystupovať v mesiacoch marec a apríl 2020. Iniciatíva zároveň pracuje na organizácii prvého virtuálneho festivalu.
