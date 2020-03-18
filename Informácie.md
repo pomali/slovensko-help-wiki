@@ -19,5 +19,7 @@
 * [COVID-19 na Slovensku: porovnanie s inými krajinami](https://qsmd.github.io/covid19slovakia/) - COVID-19 na Slovensku: porovnanie s inými krajinami
 * [Fight Corona with Art](https://tasteminty.com/page/fight-corona-with-art/) - Poskytuje bezplatne obrazky smerujuce ku zmenam spravania obyvatelstva a pre novinarov a blogerov informujucich obyvatelstvo o pozadovanom spravania, vyvoji choroby a karanteny.
 * [TapiX by Dateio](https://dateio.eu/tapix) - Jsme Fintech startup, který zpracovává a obohacuje karetní transakce slovenských, českých a rumunských bank. Na základě naší analýzy transakcí jsme schopni měřit takřka realtime efekty jednotlivých opatření na snížení pohybu obyvatelstva. Všechno máme již připravené pro ČR, kde jsme aktivně zapojeni v COVID19.CZ, takže úprava pro SK je pro nás otázka pár hodin.
+* [Investment od Sama Altmana](https://blog.samaltman.com/funding-for-covid-19-projects) - Sam Altman je angel investor. Založil spolu s Elonom Muskom Open AI a v minulosti viedol najznámejší americký akceleračný program pre startupy - Y Combinator. Vydal ponuku pre startupy, ktoré vedia pomocť s Koronou.
+* [Emergent Ventures](https://www.mercatus.org/emergentventures) - pod vedením profesora Tylera Cowena z Mason University ponúka ceny v hodnote 1 milión dolárov pre rôzne typy projektov pomáhajúcich s koronou.
 
 > Tento zoznam priebežne aktualizujeme. Prosím, napíšte na katarina.grujbarova@gmail.com, ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
