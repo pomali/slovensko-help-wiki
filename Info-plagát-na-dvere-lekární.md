@@ -18,8 +18,8 @@ Odporúčame na dvere lekárne zverejniť aj nedostupnosť sortimentu, na ktorý
 
 Náhľad obrázkov, ktoré sa nachádzajú v balíčku:
 
-![](/images/lekarne/lekarne-social-preview2.png)
-![](/images/lekarne/plagat-2020031501.png)
+![](images/lekarne/lekarne-social-preview2.png)
+![](images/lekarne/plagat-2020031501.png)
 
 
 ***
