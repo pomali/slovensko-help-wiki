@@ -2,7 +2,7 @@
 ##  ****ZDRAVIE****
 
 * [COVID CHAT](https://covid.chat/)- sebadiagnostika a dôležité informácie o koronavíruse 
-* [ZSTAN ZDRAVY](https://www.zostanzdravy.sk/) – aplikácia pre anonymné sledovanie pohybu, ktorá používateľa upozorní na 
+* [ZOSTAN ZDRAVY](https://www.zostanzdravy.sk/) – aplikácia pre anonymné sledovanie pohybu, ktorá používateľa upozorní na 
    výskyt v mieste, kde bol potrvdený výskyt ochorenia COVID19
 * [Rúška a respirátory](http://i-shops.sk/)- web monitorujúci eshopy v celej SR, ktoré majú na sklade rúška a respirátory
 * [MAIAMD](https://maiamd.sk/)- telemedicínska aplikácia umožňujúca kontakt s lekárom na diaľku, bez nutnosti návštevy. 
@@ -24,4 +24,4 @@
  
 
 
-> Tento zoznam priebežne aktualizujeme. Prosím, napíšte na info@slovensko.help, ak viete o vhodnom projekte, ktorý je vhodné zaradiť do zoznamu.
+> Tento zoznam priebežne aktualizujeme. Prosím, [napíšte nám](info@slovensko.help), ak viete o vhodnom projekte, ktorý je dobré zaradiť do zoznamu.
