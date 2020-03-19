@@ -24,4 +24,4 @@
  
 
 
-> Tento zoznam priebežne aktualizujeme. Prosím, [napíšte nám](info@slovensko.help), ak viete o vhodnom projekte, ktorý je dobré zaradiť do zoznamu.
+> Tento zoznam priebežne aktualizujeme. Prosím, napíšte nám na info@slovensko.help, ak viete o vhodnom projekte, ktorý je dobré zaradiť do zoznamu.
